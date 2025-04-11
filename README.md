@@ -112,8 +112,7 @@ If using MySQL instead of SQLite, follow these steps:
 📝 Notes
 --------
 
-*   Modify `project_etl.py` if you want to redirect output to MySQL instead of SQLite.
-*   Use `.env` files or Airflow Variables to manage credentials securely.
+*   Modify `project_etl.py` if you want to redirect output to PostgreSQL instead of MySQL.
 
 * * *
 
