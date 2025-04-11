@@ -3,7 +3,7 @@ Project ELT Weather - Data Extraction from API
 
   
 
-![Project Image](https://github.com/user-attachments/assets/6e716ab9-5503-42f9-82c1-cf9e8e8b6f57)
+<img src="etl-dag with mysql-1.png" alt="ETL DAG with MySQL" width="700"/>
 
   
 
